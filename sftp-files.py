@@ -1,6 +1,6 @@
 import os, sys, time, smtplib, string, popen2, subprocess, re, datetime, MimeWriter, StringIO, base64, paramiko
 #*******************************************************************#
-# Cadet Factory Store Purchase Orders SFTP Transfer                 #
+# SFTP File Transfer                                                #
 #                                                                   #
 # Author: Natalie Metzger                                           #
 # Last Modified: 2011.02.15                                         #
